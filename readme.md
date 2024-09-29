@@ -1,4 +1,6 @@
 github link : https://github.com/tejsmahakal/apple_clone
+hosted link : https://tejsmahakal.github.io/apple_clone/
+
 
 # Project Overview
 The Apple Website Clone is a front-end project built using HTML and CSS that mimics the appearance and layout of the official Apple website. The project focuses on building a pixel-perfect, responsive design that mirrors Apple's clean, modern, and minimalist style. This is primarily a learning project aimed at practicing responsive web design techniques, flexbox, grid, and CSS media queries.
